@@ -2,7 +2,7 @@
 
 int main ()
 {
-	printf ("hello github");
+	printf ("hello Github");
 
 	return 0;
 }
